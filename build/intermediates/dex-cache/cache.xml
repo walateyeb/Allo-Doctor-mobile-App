@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-multidex\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ee24ad0ee1a4e1312c653c81c305f46d4f1a5978">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-3799b35129cb7a8424dc07bb4e6616db1196d597.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-multidex-instrumentation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9da2eb848dc1e30f066a677ff9082350f0ea45de">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-3dd1128df258639bca2ac5414f92abb6b796150d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\jsoup-1.8.1-7cc26cffb2bdba46e3679dcb819ba5fa81b5e079.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\httpclient-4.5.1-33c9394098af6a2ef4ddf4a2295aacd987dd4a65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\FacebookSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf8b61c45ad6c04cb639bdbb7a4659934a429dca">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-5ee451b1577158d4ab679a6ecece6dd4e6129546.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\httpcore-4.4.3-38fe71332ee9224dcdebb6b15281d6498ef99ccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c2e7717a6b70dd702de6f8df474b4458f6a16aa">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-7ceb23eaf3ebdd097acb31894d6703ccc33fcb14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\android-support-v4-495adb16bd8456ddc9d200dbf420759249c5aaf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\gcm-be27fad3f147c47a74ea51e3557e08775247cccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\httpclient-win-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1829f9483cded887b5e7eb354d9a86e81d377962">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\httpclient-win-4.5.1-f51d7264d429b96585c5f454898a770ab3722533.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-fc341cdea2c4a0026da850ea2ce8685181f6e911.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\FacebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-537de5963d0687ddfca93a11a5562c51610b8d75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09fcc44d67fb0e3d442411753277fab6eb14d35b">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-a9f687aeb6e3737adc0006932048b8572dd6d31f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-575671be68891ff0e5b18d10f19dbefd3912ba4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\httpclient-cache-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6247317086cb12d2a5fe3296afeccb1d3e00525c">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\httpclient-cache-4.5.1-0d04642a34361c231e904c076ff97ce9fbc5af9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47d92007ca13efd47efad1af94d842ecb5066310">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1-89efb436ea54b4721348ded8ed2ec4af187cbe6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\google-play-services_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ac2befb2bd459c35feec3e1a438e6741d94e897">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-4e22b2e033fb5d592054037db92f7c830d2c312b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\CircularImageView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5746eb9b42314faff8a0f8dd35e3fe9f88d95d6b">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\classes-12db6d667e29ade76acf025a47562298c7c0fa7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\libs\signpost-jetty6-1.2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="278d98035ed45da35eaeac7ebd22d5fc19374187">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\signpost-jetty6-1.2.1.1-6992255780470525a59d95da7195a78290e4c5b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\google-play-services_lib\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb934dbae57cc6cb9fa09aa0c049f6b500ba660c">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\google-play-services-df6114a266c9079cabb1615a4717a57b3d67c160.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-multidex-instrumentation\unspecified\jars\libs\android-support-multidex.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25c137e5b475affeba99ace72e37f5ca9396646e">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\android-support-multidex-e24f13331116a9b11fdaef1fdca8281db342a0a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-multidex-instrumentation\unspecified\jars\libs\android-support-multidex-instrumentation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c92c5fce9d62578d36d19a576b1330e7040dd0d6">
+        <dex dex="C:\Users\Wala\pfe\Dr App\build\intermediates\pre-dexed\debug\android-support-multidex-instrumentation-6a846a9d4de1db0a2c4136a9e0603ed85897781f.jar" />
+    </item>
+
+</items>

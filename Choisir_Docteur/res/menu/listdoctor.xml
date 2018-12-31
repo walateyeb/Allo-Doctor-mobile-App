@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.drapp.DoctorListActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        />
+<item
+        android:id="@+id/action_profile"
+        android:orderInCategory="100"
+        android:title="@string/action_profile"
+        />
+<item
+        android:id="@+id/action_appointment"
+        android:orderInCategory="100"
+        android:title="@string/action_appointment"
+        />
+<item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="@string/action_share"
+        />
+<item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        android:title="@string/action_rate"
+       />
+<item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/action_about"
+       />
+<item android:id="@+id/action_search"
+          android:title="Recherche"
+          android:icon="@drawable/ic_search"
+          
+          app:actionViewClass="android.support.v7.widget.SearchView" />
+</menu>

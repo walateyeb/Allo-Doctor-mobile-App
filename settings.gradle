@@ -1,0 +1,6 @@
+include ':android-support-v7-appcompat'
+include ':android-support-multidex-instrumentation'
+include ':google-play-services_lib'
+include ':android-support-multidex'
+include ':CircularImageView'
+include ':Dr App'

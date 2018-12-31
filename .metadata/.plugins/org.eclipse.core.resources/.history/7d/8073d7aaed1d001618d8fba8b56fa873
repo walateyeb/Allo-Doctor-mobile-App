@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Map Api Key -->
+    <string name="google_geo_api_key">AIzaSyBK4MRLebdOj9-1hkKjzZ0aquqgtGIFGHo</string>
+    <!-- Facebook string -->
+    <string name="facebook_app_id">728898740546708</string>
+    
+    <string name="cancelled">Annulé</string>
+    <string name="permission_not_granted">Impossible d'effectuer l'action sélectionnée car les autorisations ne sont pas accordées.</string>
+    <string name="ok">OK</string>
+    <string name="hello_user">Salut %1$s!</string>
+    <string name="success">Succès</string>
+    <string name="successfully_posted_post">posté avec succès \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="error">Error</string>
+    <string name="status_update">Mise à jour de statut pour %1$s à %2$s</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="you_picked">You picked:</string>
+    <string name="no_friends_selected">&lt;No friends selected&gt;</string>
+    <string name="no_place_selected">&lt;No place selected&gt;</string>
+    <string name="pick_seattle_place">Pick a Seattle Place</string>
+    <string name="app_id">355198514515820</string>
+    <string name="exception">Exception: %1$s</string>
+    <!-- Facebook String -->
+    
+    <!-- GSM Server Register -->
+    <string name="error_config">S'il vous plaît définir la %1$s constante et recompiler l'application.</string>
+    <string name="already_registered">Le périphérique est déjà enregistré sur le serveur.</string>
+    <string name="gcm_registered">De GCM: appareil enregistré avec succès!</string>
+    <string name="gcm_unregistered">De GCM: appareil non enregistré!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    
+    <!-- GSM Server Register -->
+    
+    <string name="app_name">Alo Docteur</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">paramètres</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_appointment">Mes Rendez-vous</string>
+    <string name="action_share">Partagez maintenant</string>
+    <string name="action_dec">Deconnexion</string>
+    <string name="action_rate">Évaluez nous</string>
+    <string name="action_about">À propos d application</string>
+    <string name="title_activity_login">Connexion</string>
+    <string name="title_activity_splash">Alo Docteur</string>
+    <string name="title_activity_login2">Connecter maintenant</string>
+    <string name="title_activity_register">Inscription</string>
+    <string name="title_activity_doctor_list">Docteurs</string>
+    <string name="title_activity_doctor">Docteur</string>
+    <string name="title_activity_map">Carte</string>
+    <string name="title_activity_appointment">Rendez-vous</string>
+    <string name="title_activity_appointment2">Rendez-vous</string>
+    <string name="title_activity_confirm">Confirme</string>
+    <string name="title_activity_reviews">Avis</string>
+    <string name="title_activity_my_appointment">Mon Rendez-vous</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_settings">paramètres</string>
+    <string name="title_activity_aboutus">À propos de nous</string>
+    <string name="title_activity_get_city">Ville</string>
+
+</resources>

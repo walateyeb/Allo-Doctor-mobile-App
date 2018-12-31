@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Wala/pfe/Dr%20App/build/intermediates/exploded-aar/pfe/android-support-v7-appcompat/unspecified/res/values-h720dp/values-h720dp.xml -->
+    <eat-comment/>
+    <dimen name="abc_alert_dialog_button_bar_height">54dip</dimen>
+</resources>

@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:2:1-167:12
+	package
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:3:5-24
+	android:versionName
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml
+		INJECTED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [pfe:android-support-v7-appcompat:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\AndroidManifest.xml:21:5-23:78
+MERGED from [pfe:CircularImageView:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\CircularImageView\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [pfe:FacebookSDK:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\FacebookSDK\unspecified\AndroidManifest.xml:20:5-43
+MERGED from [pfe:android-support-v7-appcompat:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\AndroidManifest.xml:21:5-23:78
+MERGED from [pfe:google-play-services_lib:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\google-play-services_lib\unspecified\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [pfe:android-support-v7-appcompat:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:16:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:17:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:24:22-65
+permission#com.drapp.permission.C2D_MESSAGE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:27:5-29:47
+	android:protectionLevel
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:28:9-56
+uses-permission#com.drapp.permission.C2D_MESSAGE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:31:5-72
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:31:22-69
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:34:5-82
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:34:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:36:5-66
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:36:22-63
+application
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:39:5-165:19
+MERGED from [pfe:android-support-v7-appcompat:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\AndroidManifest.xml:25:5-20
+MERGED from [pfe:FacebookSDK:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\FacebookSDK\unspecified\AndroidManifest.xml:22:5-20
+MERGED from [pfe:android-support-v7-appcompat:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\android-support-v7-appcompat\unspecified\AndroidManifest.xml:25:5-20
+MERGED from [pfe:google-play-services_lib:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\google-play-services_lib\unspecified\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:43:9-40
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:45:9-57:20
+	android:permission
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:47:13-73
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:46:13-71
+intent-filter#com.drapp+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:48:13-56:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:51:17-81
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:51:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:53:17-86
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:53:25-83
+category#com.drapp
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:55:17-54
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:55:27-51
+service#com.drapp.GCMIntentService
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:59:9-62
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:59:18-59
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:62:9-64:58
+	android:value
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:64:13-55
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:63:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:65:9-67:69
+MERGED from [pfe:google-play-services_lib:unspecified] C:\Users\Wala\pfe\Dr App\build\intermediates\exploded-aar\pfe\google-play-services_lib\unspecified\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:66:13-58
+activity#com.drapp.MainActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:70:13-50
+activity#com.drapp.LoginActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:73:9-76:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:75:13-57
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:74:13-51
+activity#com.drapp.Splash
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:77:9-85:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:79:13-58
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:78:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:81:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:83:27-74
+activity#com.drapp.Login2Activity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:86:9-89:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:88:13-58
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:87:13-52
+activity#com.drapp.RegisterActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:90:9-93:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:92:13-60
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:91:13-54
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:95:9-97:55
+	android:value
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:97:13-52
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:96:13-58
+activity#com.facebook.LoginActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:99:9-102:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:101:13-45
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:100:13-54
+activity#com.drapp.DoctorListActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:103:9-115:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:105:13-63
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:104:13-56
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:106:14-108:23
+action#android.intent.action.SEARCH
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:107:11-65
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:107:19-62
+meta-data#android.app.searchable
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:109:13-110:50
+	android:resource
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:110:13-47
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:109:24-61
+meta-data#android.app.default_searchable
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:111:13-113:43
+	android:value
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:113:13-40
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:112:13-58
+activity#com.drapp.DoctorActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:116:9-119:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:118:13-58
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:117:13-52
+activity#com.drapp.MapActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:120:9-123:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:122:13-55
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:121:13-49
+activity#com.drapp.AppointmentActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:124:9-127:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:126:13-63
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:125:13-57
+activity#com.drapp.Appointment2Activity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:128:9-131:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:130:13-64
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:129:13-58
+activity#com.drapp.ConfirmActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:132:9-135:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:134:13-59
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:133:13-53
+activity#com.drapp.ReviewsActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:136:9-139:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:138:13-59
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:137:13-53
+activity#com.drapp.MyAppointmentActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:140:9-143:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:142:13-66
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:141:13-59
+activity#com.drapp.ProfileActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:144:9-147:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:146:13-59
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:145:13-53
+activity#com.drapp.SettingsActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:148:9-151:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:150:13-60
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:149:13-54
+activity#com.drapp.AboutusActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:152:9-155:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:154:13-59
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:153:13-53
+activity#com.drapp.GetCityActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:156:9-159:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:158:13-60
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:157:13-53
+activity#com.drapp.FbLoginActivity
+ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:160:9-163:20
+	android:label
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:162:13-57
+	android:name
+		ADDED from C:\Users\Wala\pfe\Dr App\AndroidManifest.xml:161:13-53

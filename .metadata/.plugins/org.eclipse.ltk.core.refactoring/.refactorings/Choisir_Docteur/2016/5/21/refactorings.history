@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.drapp&apos; to &apos;com.application&apos;&#x0D;&#x0A;- Original project: &apos;Choisir_Docteur&apos;&#x0D;&#x0A;- Original element: &apos;Choisir_Docteur/src/com.drapp&apos;&#x0D;&#x0A;- Renamed element: &apos;Choisir_Docteur/src/com.application&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.drapp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.drapp" name="com.application" qualified="false" references="true" stamp="1464132053183" textual="false" version="1.0"/>
+</session>
